@@ -1,0 +1,23 @@
+name: Max Gibson
+favicon: null
+layout_spectrum: 0.10830797557719052
+typography_spectrum: 0.19006270170211792
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7115760699380189
+  lightness: 0.8760544345714152
+  saturation: 0.3772779928985983
+  rhythmicContrast: 0.14725953503511846
+purpose: []
